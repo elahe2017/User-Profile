@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">صفحه کاربری</string>
+    <string name="profile_editProfile">ویرایش اطلاعات</string>
+    <string name="profile_viewWebsite">مشاهده وبسایت</string>
+    <string name="profile_skills">مهارت ها</string>
+    <string name="profile_city"> استان,شهر</string>
+    <string name="profile_gilan">رشت,گیلان</string>
+    <string name="profile_tehran">ایران,تهران</string>
+    <string name="profile_alborz">البرز,کرج</string>
+    <string name="profile_firstNameHint">نام خود را وارد کنید</string>
+    <string name="profile_lastNameHint">نام خانوادگی خود را وارد کنید</string>
+    <string name="profile_Android">برنامه نویسی اندروید</string>
+    <string name="profile_uiDesign" translatable="false">ui design</string>
+    <string name="profile_deepLearning">یادگیری عمیق</string>
+
+    <string name="profile_done">ثبت</string>
+    <string name="profile_isCheckedMessage" translatable="false">%1$s is checked</string>
+    <string name="profile_saveInformation">ذخیره اطلاعات</string>
+
+
+</resources>

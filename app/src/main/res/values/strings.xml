@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="profile_editProfile">edit profile</string>
+    <string name="profile_viewWebsite">view website</string>
+    <string name="profile_skills">skills</string>
+    <string name="profile_city"> province,city</string>
+    <string name="profile_gilan">Gilan,Rasht</string>
+    <string name="profile_tehran">Tehran,Iran</string>
+    <string name="profile_alborz">Alborz,Karaj</string>
+    <string name="profile_firstNameHint">Enter your first name...</string>
+    <string name="profile_lastNameHint">Enter your last name...</string>
+    <string name="profile_Android">Android Developement</string>
+    <string name="profile_uiDesign" translatable="false">ui design</string>
+    <string name="profile_deepLearning">Deep learning</string>
+    <string name="profile_saveInformation">Save Information</string>
+    <string name="profile_done">Done</string>
+    <string name="profile_isCheckedMessage" translatable="false">%1$s is checked</string>
+
+
+</resources>
